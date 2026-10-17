@@ -146,3 +146,7 @@ Source dataset: **M5 Forecasting – Accuracy**, a historical Walmart sales fore
 ---
 
 **Project type:** independent portfolio project | **Deployment:** Streamlit Community Cloud | **Data period:** historical M5 dataset (forecast window: 2016)
+
+## Dashboard Preview
+
+![Retail Demand Intelligence Dashboard](assets/dashboard-overview.png)
