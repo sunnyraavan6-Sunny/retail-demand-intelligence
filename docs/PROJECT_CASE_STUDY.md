@@ -5,7 +5,7 @@
 An end-to-end, **historical retail demand forecasting and inventory intelligence demonstration** built with Python, MySQL, Power BI, XGBoost, and Streamlit. Starting with the M5 sales/calendar/prices dataset, the project develops store-level and selected product-level demand forecasts, tests them using time-aware validation, and turns the forecast outputs into an interactive inventory-risk simulator.
 
 **Live demo:** https://retail-demand-intelligence-scbt7jcazpccwnp9mxmqpl.streamlit.app/  
-**Repository:** https://github.com/sunnyraavan6-Sunny/retail-demand-intelligence
+
 
 > The forecast window is **April 25–May 22, 2016**, and simulated stock figures are used throughout the inventory module. This work demonstrates analytical and engineering capability; it has **not** been shown to reduce actual retailer stockouts or holding costs.
 
