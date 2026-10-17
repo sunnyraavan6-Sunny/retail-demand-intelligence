@@ -1,0 +1,17 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.ipynb
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+data/raw/
+*.db
+*.sqlite
+*.pem
+*.key
+*.log
+*_backup*.py
+app_before_*.py
+.DS_Store
