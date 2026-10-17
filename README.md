@@ -138,10 +138,6 @@ Potential extensions: ingest more recent retail data, refresh forecasts automati
 
 Source dataset: **M5 Forecasting – Accuracy**, a historical Walmart sales forecasting challenge. See the [Kaggle competition and dataset information](https://www.kaggle.com/competitions/m5-forecasting-accuracy). The raw competition datasets are not distributed in this lightweight repository; consult the source's access and redistribution terms if you intend to publish additional data.
 
-## Dashboard Preview
-
-![Retail Demand Intelligence Executive Overview](assets/dashboard-overview.png)
-
 Explore the interactive dashboard using the live
 Streamlit demo linked above.
 
