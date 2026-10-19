@@ -2,7 +2,7 @@
 
 **Historical retail demand forecasting · Product analytics · Inventory decision support**
 
-[**Launch the Streamlit demo**](https://retail-demand-intelligence-scbt7jcazpccwnp9mxmqpl.streamlit.app/) · [**Read the project case study**](docs/PROJECT_CASE_STUDY.md) · [**Portfolio and resume copy**](docs/RESUME_LINKEDIN.md)
+[**Launch the Streamlit demo**](https://retail-demand-intelligence-scbt7jcazpccwnp9mxmqpl.streamlit.app/)
 
 > **Scope and transparency:** This is a portfolio demonstration using the historical M5 forecasting dataset, not a live retail system. The forecast displayed in the app covers **April 25–May 22, 2016** for store **CA_1**. Inventory quantities are **simulated**, and reorder points are illustrative—not verified purchasing recommendations. The cloud app reads **precomputed forecasts**; it does not retrain models or connect to MySQL at runtime.
 
